@@ -3,7 +3,8 @@ Personal family HomeLab (currently running on a RaspberryPi 3B+)
 
 ### Currently active and running:
 - **Traefik**: reverse proxy (docker)
-- **HomeAssistant**: smart-home automation system (docker)
+- **HomeAssistant**: smart-home automation system (docker)  
+    [see HASS config and setup](https://github.com/LucasPlacentino/my-hass)
 - **Cloudflare** DynDNS API: updates periodically my (dynamic) public IP to my domains
 - **Apache** web server: for testing purposes
 - **RaspberryPi** 3: for a basic Linux environment
